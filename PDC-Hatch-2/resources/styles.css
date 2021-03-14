@@ -1,0 +1,124 @@
+text {
+  fill: white;
+}
+
+.header {
+  font-family: System-Regular;
+  font-size: 40;
+}
+
+.pokemon-name {
+  font-family: System-Regular;
+  font-size: 40;
+}
+
+.sub-heading {
+  font-family: System-Light;
+  font-size: 30;
+}
+
+.paragraph {
+  font-family: System-Light;
+  font-size: 24;
+}
+
+.left {
+  text-anchor: start;
+}
+
+.middle {
+  text-anchor: middle;
+}
+
+.right {
+  text-anchor: end;
+}
+
+.goal-container {
+  width: 70%; 
+  height: 2%; 
+  x: 50; 
+  y: 300; 
+  fill: grey;
+}
+
+.goal-percent {
+  height: 2%; 
+  x: 50; 
+  y: 300; 
+  fill: green;
+}
+
+.p-exp-container {
+  width: 65%; 
+  height: 2%; 
+  x: 85; 
+  y: 174; 
+  fill: grey;
+}
+
+.p-goal-percent {
+  height: 2%; 
+  x: 85; 
+  y: 174;
+  fill: green;
+}
+
+.application-fill  { fill: fb-black; }
+.foreground-fill   { fill: fb-white; }
+.background-fill   { fill: fb-white; }
+
+#er-home-button #text {
+  text-buffer: "HOME";
+}
+
+#p-make-partner-button #text {
+  text-buffer: "PARTNER";
+}
+
+#p-walk-button #text {
+  text-buffer: "WALK";
+}
+
+#p-menu-button #text {
+  text-buffer: "MENU";
+}
+
+#g-home-button #text {
+  text-buffer: "HOME";
+}
+
+#g-make-partner-button #text {
+  text-buffer: "PARTNER";
+}
+
+#pc-menu-button #text {
+  text-buffer: "MENU";
+}
+
+.list-item {
+  height: 112;
+}
+
+.list-item text {
+  fill: "white";
+  text-anchor: middle;
+  x: 50%;
+  font-size: 24;
+  text-length: 20;
+}
+
+.line {
+  width: 100%;
+  height: 1;
+  fill: "white";
+  y: 100%;
+}
+
+#touch {
+  width: 100%;
+  height: 100%-6;
+  x: 0;
+  y: 0;
+  opacity: 0;
+}

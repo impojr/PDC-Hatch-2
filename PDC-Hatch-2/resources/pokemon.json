@@ -1,0 +1,407 @@
+[{
+		"id": 1,
+		"name": "Bulbasaur",
+		"evolves": 25,
+		"into": 2
+	},
+	{
+		"id": 2,
+		"name": "Ivysaur",
+		"evolves": 50,
+		"into": 3
+	},
+	{
+		"id": 3,
+		"name": "Venusaur",
+		"gmax": true
+	},
+	{
+		"id": 4,
+		"name": "Charmander",
+		"evolves": 25,
+		"into": 5
+	},
+	{
+		"id": 5,
+		"name": "Charmeleon",
+		"evolves": 50,
+		"into": 6
+	},
+	{
+		"id": 6,
+		"name": "Charizard",
+		"gmax": true
+	},
+	{
+		"id": 7,
+		"name": "Squirtle",
+		"evolves": 25,
+		"into": 8
+	},
+	{
+		"id": 8,
+		"name": "Wartortle",
+		"evolves": 20,
+		"into": 9
+	},
+	{
+		"id": 9,
+		"name": "Blastoise",
+		"gmax": true
+	},
+	{
+		"id": 10,
+		"name": "Caterpie",
+		"evolves": 10,
+		"into": 11
+	},
+	{
+		"id": 11,
+		"name": "Metapod",
+		"evolves": 20,
+		"into": 12
+	},
+	{
+		"id": 12,
+		"name": "Butterfree",
+		"gmax": true
+	},
+	{
+		"id": 13,
+		"name": "Pichu",
+		"evolves": 30,
+		"into": 14
+	},
+	{
+		"id": 14,
+		"name": "Pikachu",
+		"gmax": true
+	},
+	{
+		"id": 15,
+		"name": "Meowth",
+		"gmax": true
+	},
+	{
+		"id": 16,
+		"name": "Machop",
+		"evolves": 30,
+		"into": 17
+	},
+	{
+		"id": 17,
+		"name": "Machoke",
+		"evolves": 55,
+		"into": 18
+	},
+	{
+		"id": 18,
+		"name": "Machamp",
+		"gmax": true
+	},
+	{
+		"id": 19,
+		"name": "Gastly",
+		"evolves": 30,
+		"into": 20
+	},
+	{
+		"id": 20,
+		"name": "Haunter",
+		"evolves": 55,
+		"into": 21
+	},
+	{
+		"id": 21,
+		"name": "Gengar",
+		"gmax": true
+	},
+	{
+		"id": 22,
+		"name": "Krabby",
+		"evolves": 40,
+		"into": 23
+	},
+	{
+		"id": 23,
+		"name": "Kingler",
+		"gmax": true
+	},
+	{
+		"id": 24,
+		"name": "Happiny",
+		"evolves": 40,
+		"into": 25
+	},
+	{
+		"id": 25,
+		"name": "Chansey",
+		"evolves": 80,
+		"into": 26
+	},
+	{
+		"id": 26,
+		"name": "Blissey"
+	},
+	{
+		"id": 27,
+		"name": "Lapras",
+		"gmax": true
+	},
+	{
+		"id": 28,
+		"name": "Eevee",
+		"gmax": true
+	},
+	{
+		"id": 29,
+		"name": "Munchlax",
+		"evolves": 30,
+		"into": 30
+	},
+	{
+		"id": 30,
+		"name": "Snorlax",
+		"gmax": true
+	},
+	{
+		"id": 31,
+		"name": "Trubbish",
+		"evolves": 50,
+		"into": 32
+	},
+	{
+		"id": 32,
+		"name": "Garbodor",
+		"gmax": true
+	},
+	{
+		"id": 33,
+		"name": "Meltan",
+		"evolves": 60,
+		"into": 34
+	},
+	{
+		"id": 34,
+		"name": "Melmetal",
+		"gmax": true
+	},
+	{
+		"id": 35,
+		"name": "Grookey",
+		"evolves": 25,
+		"into": 36
+	},
+	{
+		"id": 36,
+		"name": "Thwackey",
+		"evolves": 50,
+		"into": 37
+	},
+	{
+		"id": 37,
+		"name": "Rillaboom",
+		"gmax": true
+	},
+	{
+		"id": 38,
+		"name": "Scorbunny",
+		"evolves": 25,
+		"into": 39
+	},
+	{
+		"id": 39,
+		"name": "Raboot",
+		"evolves": 50,
+		"into": 40
+	},
+	{
+		"id": 40,
+		"name": "Cinderace",
+		"gmax": true
+	},
+	{
+		"id": 41,
+		"name": "Sobble",
+		"evolves": 25,
+		"into": 42
+	},
+	{
+		"id": 42,
+		"name": "Drizzile",
+		"evolves": 50,
+		"into": 43
+	},
+	{
+		"id": 43,
+		"name": "Inteleon",
+		"gmax": true
+	},
+	{
+		"id": 44,
+		"name": "Rookidee",
+		"evolves": 27,
+		"into": 45
+	},
+	{
+		"id": 45,
+		"name": "Corvisquire",
+		"evolves": 55,
+		"into": 46
+	},
+	{
+		"id": 46,
+		"name": "Corviknight",
+		"gmax": true
+	},
+	{
+		"id": 47,
+		"name": "Blipbug",
+		"evolves": 20,
+		"into": 48
+	},
+	{
+		"id": 48,
+		"name": "Dottler",
+		"evolves": 45,
+		"into": 49
+	},
+	{
+		"id": 49,
+		"name": "Orbeetle",
+		"gmax": true
+	},
+	{
+		"id": 50,
+		"name": "Chewtle",
+		"evolves": 40,
+		"into": 51
+	},
+	{
+		"id": 51,
+		"name": "Drednaw",
+		"gmax": true
+	},
+	{
+		"id": 52,
+		"name": "Rolycoly",
+		"evolves": 30,
+		"into": 53
+	},
+	{
+		"id": 53,
+		"name": "Carkol",
+		"evolves": 55,
+		"into": 54
+	},
+	{
+		"id": 54,
+		"name": "Coalossal",
+		"gmax": true
+	},
+	{
+		"id": 55,
+		"name": "Applin",
+		"evolves": 40,
+		"into": 56
+	},
+	{
+		"id": 56,
+		"name": "Appletun",
+		"gmax": true
+	},
+	{
+		"id": 57,
+		"name": "Silicobra",
+		"evolves": 50,
+		"into": 58
+	},
+	{
+		"id": 58,
+		"name": "Sandaconda",
+		"gmax": true
+	},
+	{
+		"id": 59,
+		"name": "Toxel",
+		"evolves": 45,
+		"into": 60
+	},
+	{
+		"id": 60,
+		"name": "Toxtricity",
+		"gmax": true
+	},
+	{
+		"id": 61,
+		"name": "Sizzlipede",
+		"evolves": 40,
+		"into": 62
+	},
+	{
+		"id": 62,
+		"name": "Centiskorch",
+		"gmax": true
+	},
+	{
+		"id": 63,
+		"name": "Hatenna",
+		"evolves": 40,
+		"into": 64
+	},
+	{
+		"id": 64,
+		"name": "Hattrem",
+		"evolves": 60,
+		"into": 65
+	},
+	{
+		"id": 65,
+		"name": "Hatterene",
+		"gmax": true
+	},
+	{
+		"id": 66,
+		"name": "Impidimp",
+		"evolves": 40,
+		"into": 67
+	},
+	{
+		"id": 67,
+		"name": "Morgrem",
+		"evolves": 60,
+		"into": 68
+	},
+	{
+		"id": 68,
+		"name": "Grimmsnarl",
+		"gmax": true
+	},
+	{
+		"id": 69,
+		"name": "Milcery",
+		"evolves": 35,
+		"into": 70
+	},
+	{
+		"id": 70,
+		"name": "Alcremie",
+		"gmax": true
+	},
+	{
+		"id": 71,
+		"name": "Cufant",
+		"evolves": 50,
+		"into": 72
+	},
+	{
+		"id": 72,
+		"name": "Copperajah",
+		"gmax": true
+	},
+	{
+		"id": 73,
+		"name": "Duraludon",
+		"gmax": true
+	}
+]

@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~5.0.0"
+  },
+  "fitbit": {
+    "appUUID": "cf73ab40-30d7-45a6-a2f3-ac0abe88d303",
+    "appType": "app",
+    "appDisplayName": "PDC Hatch 2",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#00bcd4",
+    "requestedPermissions": [
+      "access_activity",
+      "access_user_profile",
+      "access_internet"
+    ],
+    "buildTargets": [
+      "vulcan",
+      "atlas"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "PDC Hatch 2"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

@@ -1,0 +1,1 @@
+import document from"document";import*as screenManager from"./screen.js";export function loadError(e){var t=document.getElementById("er-text");0==e?t.text="Please reconnect to the companion via the fitbit app.":1==e&&(t.text="You have not walked any steps since your last sync.")}
