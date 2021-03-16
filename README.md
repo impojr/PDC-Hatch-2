@@ -70,3 +70,7 @@ From there, there is a stats page that has a "Make Partner" button. Click that a
 ## Find a bug/error?
 
 If you seem to find something you think shouldn't be, please let me know!
+
+## Credits
+
+Special thanks to the Smogon Sword/Shield Sprite Project for the Gen 8 Sprites
