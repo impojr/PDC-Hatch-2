@@ -73,4 +73,4 @@ If you seem to find something you think shouldn't be, please let me know!
 
 ## Credits
 
-Special thanks to the Smogon Sword/Shield Sprite Project for the Gen 8 Sprites
+Special thanks to the Smogon Sword/Shield Sprite Project for the Gen 8 Sprites and the PokeCommunity High Resolution Sprite Project for the large egg sprite.
